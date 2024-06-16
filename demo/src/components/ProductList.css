@@ -1,0 +1,9 @@
+.product_list{
+    width: 100%;
+    padding: 50px 10%;
+    background-color: rgb(113, 125, 94);
+    display: flex;
+    column-gap: 130px;
+    row-gap:25px;
+    flex-wrap: wrap;
+}
