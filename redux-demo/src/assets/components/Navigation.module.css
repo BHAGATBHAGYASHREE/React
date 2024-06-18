@@ -1,0 +1,33 @@
+.header
+{
+    padding: 20px 5%;
+    background-color: rgb(198, 190, 182);
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo
+{
+    border-radius: 30px;
+    background-color: rgb(148, 143, 147);
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.nav
+{
+    width: 30%;
+    height: 60px;
+}
+
+.navLinks
+{
+    width: 100%;
+    display: flex;
+    column-gap: 20px;
+    justify-content:space-between
+}
