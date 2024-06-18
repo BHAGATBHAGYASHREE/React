@@ -1,0 +1,41 @@
+.container
+{
+    width: 100%;
+    padding: 50px 10%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 50px;
+}
+
+.header
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.viewBtn
+{
+    font-size: 40px;
+    color: #2974d5;
+}
+
+.pro_info
+{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    width: 50%;
+}
+
+.pro_img
+{
+    height: 400px;
+    width: 50%;
+}
+
+.pro_details
+{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
